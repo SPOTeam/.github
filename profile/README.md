@@ -1,3 +1,3 @@
-# SS : SPOTeam Space 🖲️
+# 🖲️ SS : SPOTeam Space
 Repository For **SPOT : 스팟**
 
