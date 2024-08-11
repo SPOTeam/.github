@@ -11,4 +11,20 @@
 
 
 ![image](https://github.com/user-attachments/assets/27badc56-59cf-4201-a79b-beb727c4d0a3)
+![image](https://github.com/user-attachments/assets/9557ea21-1aa3-460b-870e-4aae7fa93533)
+
+
+![image](https://github.com/user-attachments/assets/46545c0a-ac22-47d9-b075-0ca8a193eb2b)
+
+**스팟이 제공하는 기능** 
+###1 관심사/지역별 스터디 제공
+###2 내 스터디 관리
+###3 스터디 메이킹/신청
+###4 정보 공유 커뮤니티
+
+
+
+
+
+
 
